@@ -1,50 +1,50 @@
-## Cursos DIO concluídos :
+Cursos Dio concluÃ­dos : 
 
- Lógica de Programação Essencial
+ LÃ³gica de ProgramaÃ§Ã£o Essencial
  
- Projetos ágeis com SCRUM
+ Projetos Ã¡geis com SCRUM
 
- Introdução ao Git e ao GitHub
+ IntroduÃ§Ã£o ao Git e ao GitHub
 
-## Cursos DIO em processo :
+Cursos DIO em processo :
 
- Introdução a criação de websites com HTML5 e CSS3
+ IntroduÃ§Ã£o a criaÃ§Ã£o de websites com HTML5 e CSS3
 
  JavaScript ES6 essencial
 
- Desenvolvimentos avançado com JavaScript ES6
+ Desenvolvimentos avanÃ§ado com JavaScript ES6
 
- Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
+ IntroduÃ§Ã£o ao TypeScript: Explorando Classes, Tipos e Interfaces
 
- Resolvendo Desafios de Código em Javascript
+ Resolvendo Desafios de CÃ³digo em Javascript
 
- Introdução ao ReactJS
+ IntroduÃ§Ã£o ao ReactJS
 
  Trabalhando com Componentes em React
 
- Desenvolvimentos de aplicações para internet com ReactJS
+ Desenvolvimentos de aplicaÃ§Ãµes para internet com ReactJS
 
- Práticas avançadas em projetos com ReactJS
+ PrÃ¡ticas avanÃ§adas em projetos com ReactJS
 
- Introdução aos React Hooks
+ IntroduÃ§Ã£o aos React Hooks
 
- Criando aplicações móveis multiplataforma com React Native
+ Criando aplicaÃ§Ãµes mÃ³veis multiplataforma com React Native
 
  MySql - Trabalhando com as suas primeiras tabelas
 
- Introdução ao MongoDB e Bancos de Daos NoSQL
+ IntroduÃ§Ã£o ao MongoDB e Bancos de Daos NoSQL
 
- Introdução ao Node.js com JavaScript
+ IntroduÃ§Ã£o ao Node.js com JavaScript
 
  Explorando o Estilo Arquitetural REST com Node.js
 
  Node.js com Bancos de Dados Relacionais (SQL)
 
- Microsserviços e Integrações com Node.js
+ MicrosserviÃ§os e IntegraÃ§Ãµes com Node.js
 
  Fundamentos de Arquitetura de Sistemas
 
- Introdução a orquestração de contêineres com Docker
+ IntroduÃ§Ã£o a orquestraÃ§Ã£o de contÃªineres com Docker
 
- Introdução prática a computação em nuvem usando AWS
+ IntroduÃ§Ã£o prÃ¡tica a computaÃ§Ã£o em nuvem usando AWS
  
